@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@tanepiper/webpack-robotstxt": "^0.2.0",
-    "autoprefixer": "^6.4.1",
+    "autoprefixer": "^7.0.1",
     "babel-core": "^6.0.20",
     "babel-eslint": "^7.0.0",
     "babel-loader": "^6.0.1",
